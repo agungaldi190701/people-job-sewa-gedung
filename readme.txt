@@ -1,0 +1,5 @@
+- buka xampp/web server lainya
+- nyalakan apache dan mysql
+- pindahkan file ke dalam htdoc
+- buat db di mysql dengan nama "db-gedung"
+- import file sql . didalam folder ini 
